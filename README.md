@@ -2,8 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje estou iniciando em tecnologia
+- 🔭 Estou iniciando no mundo da tecnologia
 - 🌱 Estou estudando Java
+- 🦉 Sou estudante de Pedagogia
 - 😄 Pronomes ela/dela
 
 
