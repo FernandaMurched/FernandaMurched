@@ -1,7 +1,5 @@
 ## Olá, mundo! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Estou iniciando no mundo da tecnologia
 - 🌱 Estou estudando Java
 - 🦉 Sou estudante de Pedagogia
