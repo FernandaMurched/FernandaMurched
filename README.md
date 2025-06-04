@@ -34,7 +34,7 @@ Aqui você vai encontrar projetos que desenvolvi com foco em boas práticas, có
 Acredito que tecnologia é ponte, não barreira. Estou sempre buscando aprender mais — seja refatorando um código, explorando novas ferramentas ou entendendo como tornar um sistema mais acessível.
 
 Vamos nos conectar?  
-🔗 [linkedin.com/in/fernandacgs](https://www.linkedin.com/in/fernandamurched/)
+🔗 [linkedin.com/in/fernandamurched](https://www.linkedin.com/in/fernandamurched/)
 
 ---
 
