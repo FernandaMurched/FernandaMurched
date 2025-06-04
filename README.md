@@ -1,3 +1,5 @@
+![Badge](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=4000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+in+Progress...;Sempre+em+missão+no+universo+Java!)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandaMurched/FernandaMurched/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/FernandaMurched/output/github-contribution-grid-snake-dark.svg">
