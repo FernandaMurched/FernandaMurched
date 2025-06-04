@@ -1,3 +1,13 @@
+## 🐍 Snake Contribution Grid
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandaMurched/FernandaMurched/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/FernandaMurched/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FernandaMurched/FernandaMurched/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 # 👋 Hello world, eu sou a Fernanda!
 
 Desenvolvedora Full Stack Java em formação pela Generation Brasil + Microsoft.  
@@ -36,12 +46,3 @@ Acredito que tecnologia é ponte, não barreira. Estou sempre buscando aprender 
 Vamos nos conectar?  
 🔗 [linkedin.com/in/fernandamurched](https://www.linkedin.com/in/fernandamurched/)
 
----
-
-## 🐍 Snake Contribution Grid
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandaMurched/FernandaMurched/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/FernandaMurched/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FernandaMurched/FernandaMurched/output/github-contribution-grid-snake.svg">
-</picture>
