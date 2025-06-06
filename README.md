@@ -13,7 +13,7 @@
 Desenvolvedora Full Stack Java em formação pela Generation Brasil + Microsoft.  
 Apaixonada por tecnologia, acessibilidade digital e experiências que realmente fazem sentido para as pessoas. 🌍💡
 
-Atualmente estou mergulhada no universo do desenvolvimento backend com Java, Spring Boot, MySQL e segurança de APIs — mas sem perder de vista a importância de um bom front-end e da experiência do usuário.
+Atualmente estou mergulhada no universo do desenvolvimento backend com Java, Spring Boot, MySQL e segurança de APIs, mas sem perder de vista a importância de um bom front-end e da experiência do usuário.
 
 ## 🚀 Projetos em Destaque
 
